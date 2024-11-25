@@ -1,4 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Pablo+Ramos;I'm+a+Software+Engineer+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
+## 💬 About me
+Hi, I'm Pablo. I'm a junior at Florida International University studying Computer Science. I'm passionate about software development and always looking for new opportunities to learn and grow. I am currently looking for internships for the summer of 2025.
 
 ## 🛠️ Languages and Tools
 <div>
